@@ -1,0 +1,9 @@
+{
+  "appId": "com.eduforge.learninghub",
+  "appName": "EduForge Learning Hub",
+  "webDir": "out",
+  "server": {
+    "url": "https://eduforge-pefi.vercel.app",
+    "cleartext": false
+  }
+}
